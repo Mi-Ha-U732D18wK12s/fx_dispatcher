@@ -1,0 +1,38 @@
+
+*.suo
+FX_dispatcher/bin/
+FX_dispatcher/obj/
+
+### Java ###
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+/.idea/*
+target
+*.iml
+
+# IntelliJ
+out/
+/frontend/target/
+/rest/target/
+
+/target/
+/logs/
+
+# Eclipse
+.classpath
+.project
+#.settings/
+/bin/
+.loadpath
+
+
+#Other
+#.DS_Store
